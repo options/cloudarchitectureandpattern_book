@@ -1,5 +1,6 @@
 # Table of contents
 
+* [클라우드 아키텍처와 패턴](README.md)
 * [1.1 클라우드 컴퓨팅의 개요와 주요 특성](1.1.md)
 * [1.2 IaaS, PaaS, SaaS의 정의 및 사례](1.2.md)
 * [1.3 주요 클라우드 공급자 비교 분석 (AWS, Azure, Google Cloud 등)](1.3.md)
